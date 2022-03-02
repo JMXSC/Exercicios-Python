@@ -1,2 +1,2 @@
-# Exercicios-Python *EM UPLOAD*
-#Lista contendo diversos exercícios, resolvidos por mim, em linguagem de programação Python. xD
+# Lista de Exercicios (Python) *EM UPLOAD*
+Lista contendo diversos exercícios, resolvidos por mim, em linguagem de programação Python. *EM UPLOAD*
